@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I’m Lee-Ann 👋
 
-<!--
-**Lee-Chaps/Lee-Chaps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Developer  
+🎓 IT Graduate | Curious Builder  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About
+I’m a **Software Developer** who enjoys turning ideas into simple, usable, and well-structured software. I approach development with both **logic and creativity**, thinking carefully about how systems work and how users experience them.
+
+I’m currently an **Intern Software Developer at HealTech**, contributing to frontend features, backend logic, and debugging while learning how real-world systems are built and maintained.
+
+I’ve also completed an **AI & Machine Learning bootcamp**, where I explored data analysis, bias auditing, and ethical AI — strengthening my analytical thinking and problem-solving skills.
+
+---
+
+✨ *Building software with intention, clarity, and creativity.*
