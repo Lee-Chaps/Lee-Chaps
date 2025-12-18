@@ -38,7 +38,6 @@ I’ve also completed an **AI & Machine Learning bootcamp**, where I explored da
 ![Android Studio](https://img.shields.io/badge/Android_Studio-6C757D?style=for-the-badge&logo=android&logoColor=white)
 ![Web Design](https://img.shields.io/badge/Web_Design-6C757D?style=for-the-badge&logo=figma&logoColor=white)
 ![Graphic Design](https://img.shields.io/badge/Graphic_Design-6C757D?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
-✅
 
 ---
 
